@@ -1,2 +1,2 @@
 # mask-rcnn-tensorflow
-Project of recognition
+Contain my additional scripts which may be used for image recognition for Mask RCNN.
